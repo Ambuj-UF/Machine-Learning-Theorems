@@ -27,3 +27,5 @@ for (x,y) in points:
 
 plt.plot(point2, point1, 'ro')
 plt.savefig('fig.png')
+
+
